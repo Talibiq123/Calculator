@@ -1,0 +1,1 @@
+const cross = 'u00d7';
